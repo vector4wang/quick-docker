@@ -64,14 +64,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c3c0e-eb6e-46b2-8dbd-c3551033289e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Saturn-vipshop/quickstart/quickstart.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Saturn-vipshop/quickstart/quickstart.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saturn-vipshop/saturn-docker/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Saturn-vipshop/saturn-docker/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saturn-vipshop/saturn-docker/quickstart-docker.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Saturn-vipshop/saturn-docker/quickstart-docker.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saturn-vipshop/saturn-docker/saturn-console/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Saturn-vipshop/saturn-docker/saturn-console/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saturn-vipshop/saturn-docker/saturn-db/saturn-db.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Saturn-vipshop/saturn-docker/saturn-db/saturn-db.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saturn-vipshop/saturn-it/src/test/resources/script/restart/prg.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Saturn-vipshop/saturn-it/src/test/resources/script/restart/prg.sh" afterDir="false" />
-    </list>
+    <list default="true" id="335c3c0e-eb6e-46b2-8dbd-c3551033289e" name="Default Changelist" comment="初始化" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,6 +75,25 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="develop" />
+                    <option name="lastUsedInstant" value="1605014051" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/Saturn-vipshop" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="JupyterTrust" id="97a9cb32-575a-4543-a068-bc09e97c1350" />
   <component name="MavenImportPreferences">
@@ -101,7 +113,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/compose-nginx/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/compose-nginx" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -112,6 +124,7 @@
       <recent name="D:\develop\docker\app" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\docker\compose-nginx" />
       <recent name="D:\develop\docker\compose-nginx\image" />
       <recent name="D:\develop\docker\app" />
     </key>
@@ -177,7 +190,7 @@
       <workItem from="1604328810982" duration="913000" />
       <workItem from="1604329744295" duration="845000" />
       <workItem from="1604496493074" duration="5855000" />
-      <workItem from="1605009055563" duration="4552000" />
+      <workItem from="1605009055563" duration="6320000" />
     </task>
     <servers />
   </component>
